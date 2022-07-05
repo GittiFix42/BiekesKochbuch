@@ -1,9 +1,4 @@
----
-title: "WarmerMoehrensalat"
-date: 2022-07-05T13:31:38+02:00
-draft: true
----
-
+# WarmerMoehrensalat
 
 *Ein Rezept von Bieke Meller*
 

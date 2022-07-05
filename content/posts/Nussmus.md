@@ -1,8 +1,4 @@
----
-title: "Nussmus"
-date: 2022-07-05T14:10:38+02:00
-draft: true
----
+# Nussmus
 
 *Nach einem Rezept von [Frau Janik](https://fraujanik.com)* 
 
